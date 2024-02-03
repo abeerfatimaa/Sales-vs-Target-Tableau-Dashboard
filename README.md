@@ -1,1 +1,2 @@
 # Sales-vs-Target-Tableau-Dashboard
+This Tableau visualization offers a comprehensive overview of our store's sales performance against set targets. Explore interactive charts and graphs that dynamically showcase sales versus the set target. The dashboard enables users to explore sales versus the set target over time, with respect to categories, sub-categories, and segments. Additionally, it illustrates the profit and quantity of units sold concerning the set target.
